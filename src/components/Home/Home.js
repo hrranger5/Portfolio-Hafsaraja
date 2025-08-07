@@ -21,7 +21,7 @@ function Home() {
               </h1>
 
              <h1 className="heading-name">
-  Welcome to <strong className="main-name">Miss Grey’s World</strong>
+  Welcome to <strong className="main-name">My Portfolio </strong>
   <br />
   I'm <strong className="main-name">Hafsa Raja</strong>, your creative tech enthusiast
 </h1>
