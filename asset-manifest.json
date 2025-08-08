@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio-Hafsaraja/static/css/main.ffdef62a.css",
-    "main.js": "/Portfolio-Hafsaraja/static/js/main.771b5dbe.js",
+    "main.js": "/Portfolio-Hafsaraja/static/js/main.4906fae9.js",
     "static/js/415.fc063c41.chunk.js": "/Portfolio-Hafsaraja/static/js/415.fc063c41.chunk.js",
     "static/js/787.f6e65957.chunk.js": "/Portfolio-Hafsaraja/static/js/787.f6e65957.chunk.js",
-    "static/media/avatar.png": "/Portfolio-Hafsaraja/static/media/avatar.cac35ba9ea229799f048.png",
+    "static/media/avatar.png": "/Portfolio-Hafsaraja/static/media/avatar.4ae93e0b8aad3efa270c.png",
     "static/media/chatbot.png": "/Portfolio-Hafsaraja/static/media/chatbot.3c084ea5db2527659c57.png",
     "static/media/emotion.png": "/Portfolio-Hafsaraja/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/about.png": "/Portfolio-Hafsaraja/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -16,12 +16,12 @@
     "static/media/pre.svg": "/Portfolio-Hafsaraja/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio-Hafsaraja/index.html",
     "main.ffdef62a.css.map": "/Portfolio-Hafsaraja/static/css/main.ffdef62a.css.map",
-    "main.771b5dbe.js.map": "/Portfolio-Hafsaraja/static/js/main.771b5dbe.js.map",
+    "main.4906fae9.js.map": "/Portfolio-Hafsaraja/static/js/main.4906fae9.js.map",
     "415.fc063c41.chunk.js.map": "/Portfolio-Hafsaraja/static/js/415.fc063c41.chunk.js.map",
     "787.f6e65957.chunk.js.map": "/Portfolio-Hafsaraja/static/js/787.f6e65957.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ffdef62a.css",
-    "static/js/main.771b5dbe.js"
+    "static/js/main.4906fae9.js"
   ]
 }
