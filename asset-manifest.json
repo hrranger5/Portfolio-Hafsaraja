@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio-Hafsaraja/static/css/main.ffdef62a.css",
-    "main.js": "/Portfolio-Hafsaraja/static/js/main.4906fae9.js",
+    "main.js": "/Portfolio-Hafsaraja/static/js/main.b2ee33c8.js",
     "static/js/415.fc063c41.chunk.js": "/Portfolio-Hafsaraja/static/js/415.fc063c41.chunk.js",
     "static/js/787.f6e65957.chunk.js": "/Portfolio-Hafsaraja/static/js/787.f6e65957.chunk.js",
     "static/media/avatar.png": "/Portfolio-Hafsaraja/static/media/avatar.4ae93e0b8aad3efa270c.png",
     "static/media/chatbot.png": "/Portfolio-Hafsaraja/static/media/chatbot.3c084ea5db2527659c57.png",
     "static/media/emotion.png": "/Portfolio-Hafsaraja/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/about.png": "/Portfolio-Hafsaraja/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/home-main.png": "/Portfolio-Hafsaraja/static/media/home-main.12ec3848147ed62b5d7c.png",
     "static/media/fakenews.png": "/Portfolio-Hafsaraja/static/media/fakenews.7f113d5fb208254b453a.png",
     "static/media/home-bg.jpg": "/Portfolio-Hafsaraja/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/todo.png": "/Portfolio-Hafsaraja/static/media/todo.0ed2e51f915eb58c13a5.png",
@@ -16,12 +15,12 @@
     "static/media/pre.svg": "/Portfolio-Hafsaraja/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio-Hafsaraja/index.html",
     "main.ffdef62a.css.map": "/Portfolio-Hafsaraja/static/css/main.ffdef62a.css.map",
-    "main.4906fae9.js.map": "/Portfolio-Hafsaraja/static/js/main.4906fae9.js.map",
+    "main.b2ee33c8.js.map": "/Portfolio-Hafsaraja/static/js/main.b2ee33c8.js.map",
     "415.fc063c41.chunk.js.map": "/Portfolio-Hafsaraja/static/js/415.fc063c41.chunk.js.map",
     "787.f6e65957.chunk.js.map": "/Portfolio-Hafsaraja/static/js/787.f6e65957.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ffdef62a.css",
-    "static/js/main.4906fae9.js"
+    "static/js/main.b2ee33c8.js"
   ]
 }
