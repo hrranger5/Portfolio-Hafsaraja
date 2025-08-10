@@ -35,7 +35,7 @@ function Projects() {
               isBlog={false}
               title="Emotion Detection (Academic)"
               description="Trained a CNN model using FER-2013 dataset to detect emotions from human faces using Keras and TensorFlow. Real-time face detection integrated with OpenCV."
-              ghLink="https://github.com/hrranger5/emotion-detector"
+              ghLink="https://github.com/hrranger5/emotion_detector"
             />
           </Col>
 
