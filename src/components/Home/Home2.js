@@ -18,7 +18,7 @@ function Home2() {
               Hello! I'm <b className="purple">Hafsa Raja</b>, a passionate learner and creative tech enthusiast.
               <br />
               <br />
-              I come from a proud Rajpoot family and hold a degree in <b className="purple">Computer Science</b>. 
+              I hold a degree in <b className="purple">Computer Science</b>. 
               My journey into the tech world has been driven by my love for solving problems and creating useful solutions.
               <br />
               <br />
